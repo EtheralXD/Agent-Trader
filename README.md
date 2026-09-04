@@ -16,10 +16,7 @@ Initial Release
 This is the initial release if Agent Trader
 
 ### Added
-- data_collection scripts 
-    data_collecter.py
-    label_builder.py
-    pattern_builder.py
-
+- data_collection scripts | data_collecter.py | label_builder.py | pattern_builder.py
 - reset.py Resets the database and model 
 - master.py Runs the full data collection suite
+- agent.py This is the neural network
